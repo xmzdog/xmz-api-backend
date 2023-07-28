@@ -96,6 +96,16 @@ Boot Starter 开发了客户端 SDK ，一行代码 即可调用接口，提高�
 
 
 ## 项目截图
+![image](https://github.com/xmzdog/xmz-api-backend/assets/137482123/5c1baeb0-e341-4597-be01-b7af01217ada)
+![image](https://github.com/xmzdog/xmz-api-backend/assets/137482123/66bb6fcf-b68d-47ad-8386-f5a673e24a33)
+![image](https://github.com/xmzdog/xmz-api-backend/assets/137482123/5486a3e0-2325-413d-899f-7503e7665c07)
+![image](https://github.com/xmzdog/xmz-api-backend/assets/137482123/66d21c7c-aa2f-4ec0-8d42-277845943b37)
+![image](https://github.com/xmzdog/xmz-api-backend/assets/137482123/a0ba722d-fb89-47f1-95ba-95a0adf7d00a)
+
+
+
+
+
 
 - 为解决开发者调用成本过高的问题（须自己使用 HTTP + 封装签名去调用接口，平均 20 行左右代码），基于 Spring
 Boot Starter 开发了客户端 SDK ，一行代码 即可调用接口，提高开发体验。
