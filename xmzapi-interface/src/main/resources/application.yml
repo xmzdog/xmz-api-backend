@@ -1,0 +1,9 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+
+xmzapi:
+  client:
+    access-key: xmz
+    secre-key: abcdefgh

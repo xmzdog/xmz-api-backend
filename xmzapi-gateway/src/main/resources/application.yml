@@ -1,0 +1,37 @@
+server:
+  port: 8090
+spring:
+  cloud:
+    gateway:
+      default-filters:
+        - AddResponseHeader=source, xmz
+      routes:
+        - id: api_route
+          uri: http://localhost:8123
+          predicates:
+            - Path=/api/**
+#        - id: path_route
+#          uri: https://yupi.icu
+#          predicates:
+#            - Path=/api/**
+#        - id: path_route2
+#          uri: https://baidu.com
+#          predicates:
+#            - Path=/baidu/**
+logging:
+  level:
+    org:
+      springframework:
+        cloud:
+          gateway: trace
+dubbo:
+  application:
+    name: dubbo-springboot-demo-consumer
+#  protocol:
+#    name: dubbo
+#    port: -1
+  registry:
+#    id: nacos-registry
+    address: nacos://localhost:8848
+  consumer:
+    timeout: 50000
