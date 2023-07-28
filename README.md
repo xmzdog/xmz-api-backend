@@ -27,7 +27,7 @@
 
 **测试账号：** xmz6，**密码**：12345678
 
-**Github 地址：** https://github.com/xmzdog/xmz-api-backend/tree/main
+**Github 地址：** [https://github.com/xmzdog/xmz-api-backend/tree/main](https://github.com/xmzdog/xmz-api-backend.git)
 
 **作者：** Xiangmz [小米粥个人博客网站](http://124.221.129.68/)
 
