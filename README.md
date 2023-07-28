@@ -29,6 +29,7 @@
 
 **Github 地址：** https://github.com/xmzdog/xmz-api-backend/tree/main
 
+**作者：** Xiangmz [小米粥个人博客网站](http://124.221.129.68/)
 
 ## 本地运行
 
