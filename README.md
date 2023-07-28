@@ -27,7 +27,7 @@
 
 **测试账号：** xmz6，**密码**：12345678
 
-**Github 地址：** 
+**Github 地址：** https://github.com/xmzdog/xmz-api-backend/tree/main
 
 
 ## 本地运行
